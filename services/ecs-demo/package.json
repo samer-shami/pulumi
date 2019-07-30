@@ -1,0 +1,9 @@
+{
+    "name": "ecs-demo",
+    "main": "index.ts",
+    "dependencies": {
+        "@pulumi/pulumi": "latest",
+        "@pulumi/aws": "latest",
+        "@pulumi/awsx": "latest"
+    }
+}

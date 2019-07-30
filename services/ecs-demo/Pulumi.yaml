@@ -1,0 +1,3 @@
+name: ecs-demo
+description: Sample nginx container deployment through Pulumi
+runtime: nodejs

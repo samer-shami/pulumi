@@ -1,0 +1,3 @@
+name: ecsCluster
+runtime: nodejs
+description: ECS Cluster

@@ -1,0 +1,3 @@
+name: ecr-service
+runtime: nodejs
+description: Base class for ECR deployment in BGL

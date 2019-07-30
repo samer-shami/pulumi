@@ -1,0 +1,16 @@
+{
+    "name": "aws-typescript",
+    "devDependencies": {
+        "@types/mocha": "^5.2.7",
+        "@types/node": "^12.6.2",
+        "chai": "*",
+        "mocha": "*",
+        "path": "*"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^0.18.21",
+        "@pulumi/awsx": "^0.18.7",
+        "@pulumi/pulumi": "^0.17.22",
+        "@types/chai": "^4.1.7"
+    }
+}
